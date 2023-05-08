@@ -1,0 +1,4 @@
+E:\Lab\nlp_dataset\gov-report\preprocessed_data\test_gov\test_partition_data\train\train1.story
+E:\Lab\nlp_dataset\gov-report\preprocessed_data\test_gov\test_partition_data\train\train2.story
+E:\Lab\nlp_dataset\gov-report\preprocessed_data\test_gov\test_partition_data\train\train3.story
+E:\Lab\nlp_dataset\gov-report\preprocessed_data\test_gov\test_partition_data\train\train4.story
