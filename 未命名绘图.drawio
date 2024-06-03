@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-03T10:48:49.386Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36" etag="ouswoTYRPDeggPm2BCdY" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-03T11:05:48.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.5735.289 Safari/537.36" etag="H_rfO2NUC90KyNhsKaqd" version="24.4.13" type="github">
   <diagram name="第 1 页" id="51orhLIGN2AkyH9BwsTD">
     <mxGraphModel dx="401" dy="254" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -15,7 +15,7 @@
             <mxPoint x="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eV-kveOOjgJbcYbDGXLr-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_node.svg;fontFamily=Times New Roman;" vertex="1" parent="1">
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-7" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/generic_node.svg;fontFamily=Times New Roman;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;imageBackground=none;" vertex="1" parent="1">
           <mxGeometry x="185" y="120" width="50" height="49" as="geometry" />
         </mxCell>
         <mxCell id="eV-kveOOjgJbcYbDGXLr-131" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Times New Roman;" edge="1" parent="1" source="eV-kveOOjgJbcYbDGXLr-8" target="eV-kveOOjgJbcYbDGXLr-4">
@@ -226,6 +226,50 @@
         <mxCell id="eV-kveOOjgJbcYbDGXLr-171" value="&lt;i&gt;Gradient&amp;nbsp;&lt;/i&gt;&lt;i&gt;Decent&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Times New Roman;" vertex="1" connectable="0" parent="eV-kveOOjgJbcYbDGXLr-170">
           <mxGeometry x="0.1262" y="-1" relative="1" as="geometry">
             <mxPoint x="-2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-181" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/databases.svg;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="104.5" y="455.25" width="50" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-182" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;Batch &lt;i&gt;B&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;opacity=0;strokeColor=none;labelBackgroundColor=none;labelBorderColor=none;fontFamily=Times New Roman;textShadow=0;" vertex="1" parent="1">
+          <mxGeometry x="198" y="426.31" width="67" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-183" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;D&lt;sub&gt;(&lt;/sub&gt;&lt;i&gt;&lt;sub&gt;i,F)&lt;/sub&gt;&lt;/i&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;opacity=0;strokeColor=none;labelBorderColor=none;labelBackgroundColor=none;fontFamily=Times New Roman;" vertex="1" parent="1">
+          <mxGeometry x="98.86999999999999" y="440" width="61.25" height="12.62" as="geometry" />
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-184" value="" style="group;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="210" y="454.75" width="43" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-187" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;fontFamily=Times New Roman;" vertex="1" parent="eV-kveOOjgJbcYbDGXLr-184">
+          <mxGeometry x="10" width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-188" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/documents.svg;fontFamily=Times New Roman;" vertex="1" parent="eV-kveOOjgJbcYbDGXLr-184">
+          <mxGeometry width="33" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-190" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Times New Roman;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="eV-kveOOjgJbcYbDGXLr-181" target="eV-kveOOjgJbcYbDGXLr-188">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="50" y="385" as="sourcePoint" />
+            <mxPoint x="170" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-191" value="&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Random&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 6px;&quot;&gt;&lt;font style=&quot;font-size: 6px;&quot;&gt;&lt;span style=&quot;font-size: 6px;&quot;&gt;Sample&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=6;fontStyle=2;fontFamily=Times New Roman;" vertex="1" connectable="0" parent="eV-kveOOjgJbcYbDGXLr-190">
+          <mxGeometry x="0.0385" y="1" relative="1" as="geometry">
+            <mxPoint x="-3" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-213" value="class 0 proto" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;fontColor=#FF3333;dashed=1;strokeWidth=1;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="317" y="448.25" width="89" height="18" as="geometry">
+            <mxRectangle width="70" height="18" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-214" value="&lt;font color=&quot;#3399ff&quot;&gt;class 1 proto&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;fontStyle=0;align=center;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="317" y="466.25" width="89" height="20" as="geometry">
+            <mxRectangle width="70" height="20" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eV-kveOOjgJbcYbDGXLr-215" value="&lt;font color=&quot;#9933ff&quot;&gt;hybrid proto&lt;/font&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=inherit;whiteSpace=wrap;html=1;dashed=1;strokeWidth=1;rounded=1;shadow=1;glass=0;" vertex="1" parent="1">
+          <mxGeometry x="317" y="486.25" width="89" height="18" as="geometry">
+            <mxRectangle width="70" height="18" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
